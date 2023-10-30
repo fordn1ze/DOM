@@ -7,9 +7,9 @@
 
 //2
 
-// let input21 = document.querySelector(".input2");
-// let input22 = document.querySelector(".input3");
-// let input23 = document.querySelector(".input4");
+// let input2 = document.querySelector(".input2");
+// let input3 = document.querySelector(".input3");
+// let input4 = document.querySelector(".input4");
 // let div2 = document.querySelector("#div2");
 // let button2 = document.querySelector("#button2");
 // let sum = 0;
